@@ -11,9 +11,9 @@ In particular, the proposed method showed a prediction accuracy of 41.82%-85.10%
 
 
 ## Run
-- material_class_classification.py: Train and evaluate MOSGEN in the material class classification task.
-- functional_group_detection.py: Train and evaluate MOSGEN in the functional group detection tasks.
-- compound_identification.py: Train and evaluate MOSGEN in the compound identification task.
+- ``material_class_classification.py``: Train and evaluate MOSGEN in the material class classification task.
+- ``functional_group_detection.py``: Train and evaluate MOSGEN in the functional group detection tasks.
+- ``compound_identification.py``: Train and evaluate MOSGEN in the compound identification task.
 
 
 ## Datasets
