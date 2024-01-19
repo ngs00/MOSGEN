@@ -20,16 +20,10 @@ In particular, the proposed method showed a prediction accuracy of 41.82%-85.10%
 We trained MOSGEN on an IR spectrum dataset of real-world 1,238 chemical compounds from 9 different material classes.
 The IR spectra of the 1,238 chemical compounds were collected from [the Infrared and Raman User Group (IRUG) database](http://www.irug.org).
 
-
-**Dataset Repositories**
-- GWBG dataset: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104
-- HOIP-HSE dataset: https://datadryad.org/stash/dataset/doi:10.5061/dryad.gq3rg
-- MPS and MPL datasets: https://next-gen.materialsproject.org/
-- EFE dataset: https://figshare.com/collections/Experimental_formation_enthalpies_for_intermetallic_phases_and_other_inorganic_compounds/3822835
-- EU-TQT dataset: https://pubs.acs.org/doi/10.1021/acsami.9b16065
-- TM dataset: https://github.com/ngs00/simd
-- EBG dataset: https://pubs.acs.org/doi/10.1021/acs.jpclett.8b00124
-- GTT dataset: https://figshare.com/articles/dataset/MAST-ML_Education_Datasets/7017254
+## Required Packages
+- RDKit: https://www.rdkit.org/
+- PyTorch: https://pytorch.org/
+- PyTorch Geometric: https://pytorch-geometric.readthedocs.io/en/latest/
 
 
 ## References
